@@ -1,10 +1,4 @@
-is a practical cybersecurity lab report that documents hands-on exercises performed using industry-standard network security tools 
-
-Nmap and Scapy Lab
-
-.
-
-It is structured as a professional technical report and includes:
+This document contains a practical cybersecurity lab report that documents hands-on exercises performed using industry-standard network security tools such as Nmap and Scapy.
 
 Introduction
 Explains the purpose of the lab and the importance of Nmap and Scapy in network security. It emphasizes ethical and authorized testing.
